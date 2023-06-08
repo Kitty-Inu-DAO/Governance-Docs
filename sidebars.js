@@ -43,6 +43,25 @@ module.exports = {
           id: 'governance_token/doc-contract',
         }
       ],
+    },
+    {
+      type: 'category',
+      label: 'Brand Kit',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'brand_kit/brand-logos',
+        },
+        {
+          type: 'doc',
+          id: 'brand_kit/brand-font-guidelines',
+        },
+        {
+          type: 'doc',
+          id: 'brand_kit/brand-color-palette',
+        }
+      ],
     }
   ],
 };
