@@ -1,4 +1,8 @@
-# Website
+[![Release Version](https://img.shields.io/github/release/Kitty-Inu-DAO/Governance-Docs.svg)](https://github.com/Kitty-Inu-DAO/Governance-Docs/releases/latest)
+
+
+
+# Kitty Inu DAO Governance Docs
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
