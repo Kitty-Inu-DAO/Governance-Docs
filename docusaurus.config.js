@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://docs.test-website.eth.link',
+  url: 'https://docs-kittyinudao.eth.limo',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KittyInuDAO/Governance-Docs/edit/main/',
+            'https://github.com/Kitty-Inu-DAO/Governance-Docs/edit/main/',
         },
         blog: false,
         // theme: {
@@ -63,7 +63,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/KittyInuDAO/Governance-Docs',
+            href: 'https://github.com/Kitty-Inu-DAO/Governance-Docs/',
             label: 'GitHub',
             position: 'right',
           },
