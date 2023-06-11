@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/introduction-kitty-inu"
+        "destination": "introduction/introduction_kitty_inu"
       }
     ]
   }

@@ -59,7 +59,7 @@ const config = {
         logo: {
           alt: 'Kitty Inu DAO',
           src: 'img/kitty_logo.jpg',
-          href: '/introduction-kitty-inu',
+          href: 'introduction/introduction_kitty_inu',
         },
         items: [
           {
