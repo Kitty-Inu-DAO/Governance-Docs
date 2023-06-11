@@ -1,9 +1,9 @@
 ---
-id: doc-kommittee
+id: kitty_kommittee
 title: Kitty Kommittee
 tags:
   - kommittee
-  - governance
+  - governance-documents
 ---
 
 # Kitty Inu DAO Kommittee 
@@ -44,11 +44,9 @@ The Kitty Kommittee is an elected group of holders who volunteer their time mana
 - **Izarex**: 
     - [0xf49Ab2819516e25ecd5Db7132F3325671f0a03b0](https://etherscan.io/address/0xf49Ab2819516e25ecd5Db7132F3325671f0a03b0)
 
-    >I've been investing in crypto since 2019 and came across Kitty Inu in Jan '21.  I've since spent much of my free time getting to know the community, the 9vrse Team and the projects they’re developing.  As a result I’m dedicated to seeing all of these elements grow. 
+    > I began investing in crypto in 2019 and came across Kitty Inu soon after launch.  Since then, I've spent much of my free time getting to know the community and the 9vrse Team.
     >
-    >I see the Kitty Inu Dao as a source to combine the talents, energy and ideas of it’s holders.  The potential for growth is all there, and in collaboration with the 9vrse, it will be exciting to see the direction we evolve. 
+    > In the past I've worked in various industries including emergency medicine, adventure education and energy code consultation.   I value challenging experiences and understand the potential for growth when elements work in unison.
     >
-    >In the past I’ve worked as an EMT, charter pilot and on sea education vessels. I value challenging experiences, outdoor adventure and am likely to try anything once.  The last 10 years I’ve worked as a HERs rater and energy consultant for the construction industry.  In this role I help contractors meet and exceed code compliance measures and build better, more efficient housing. 
-    >
-    >I enjoy being apart of this community and hope to work together with all of you!
+    > I see the Kitty Inu Dao as a source where the talents, energy and ideas of it’s holders come together.   It's a special opportunity to be involved with the Dao from the beginning and it will be exciting to see the direction we evolve
 

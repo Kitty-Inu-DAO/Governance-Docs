@@ -7,11 +7,11 @@ module.exports = {
     items: [
       {
         type: 'doc',
-        id: 'introduction-kitty-inu',
+        id: 'introduction/introduction_kitty_inu',
       },
       {
         type: 'doc',
-        id: 'why_decentralization/doc-why-dao',
+        id: 'introduction/why_decentralization',
       }
     ]},
     {
@@ -21,11 +21,11 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          id: 'bylaws/doc-bylaws',
+          id: 'governance_documents/bylaws',
         },
         {
           type: 'doc',
-          id: 'kittykommittee/doc-kommittee',
+          id: 'governance_documents/kitty_kommittee',
         }
       ],
     },
@@ -36,11 +36,30 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          id: 'treasury/doc-treasury',
+          id: 'dao_architecture/treasury',
         },
         {
           type: 'doc',
-          id: 'governance_token/doc-contract',
+          id: 'dao_architecture/governance_token',
+        },
+        {
+          type: 'doc',
+          id: 'dao_architecture/snapshot_voting',
+        }
+      ],
+    },
+    {
+      type: 'category',
+      label: "How-To Guides",
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'how_tos/contribute_to_documentation',
+        },
+        {
+          type: 'doc',
+          id: 'how_tos/filing_issues',
         }
       ],
     },
@@ -51,15 +70,15 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          id: 'brand_kit/brand-logos',
+          id: 'brand_kit/logos',
         },
         {
           type: 'doc',
-          id: 'brand_kit/brand-font-guidelines',
+          id: 'brand_kit/font_guidelines',
         },
         {
           type: 'doc',
-          id: 'brand_kit/brand-color-palette',
+          id: 'brand_kit/color_palette',
         }
       ],
     }

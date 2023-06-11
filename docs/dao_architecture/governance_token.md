@@ -1,10 +1,10 @@
 ---
-id: doc-contract
+id: governance_token
 title: Kitty ERC20 Contract
 tags:
   - contract
   - token
-  - governance
+  - architecture
 ---
 
 # Kitty Inu DAO Governance Token

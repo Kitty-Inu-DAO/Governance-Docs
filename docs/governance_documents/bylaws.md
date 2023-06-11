@@ -1,10 +1,9 @@
 ---
-id: doc-bylaws
+id: bylaws
 title: Kitty Bylaws
 tags:
   - bylaws
-  - governance
-sidebar_position: 3
+  - governance-documents
 ---
 
 # Kitty Inu DAO bylaws 

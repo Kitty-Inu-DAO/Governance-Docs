@@ -6,5 +6,5 @@ import { Redirect } from 'react-router-dom';
  * The client-side redirect is here as a fallback, as Vercel should handle the redirect. See vercel.json.
  */
 export default function Home() {
-  return <Redirect to="/introduction-kitty-inu" />;
+  return <Redirect to="introduction/introduction_kitty_inu" />;
 }

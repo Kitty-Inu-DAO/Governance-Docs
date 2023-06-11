@@ -1,10 +1,9 @@
 ---
-id: doc-treasury
+id: treasury
 title: Kitty Multisig Treasury
 tags:
   - treasury
-  - governance
-sidebar_position: 4
+  - architecture
 ---
 
 # Kitty Inu DAO Treasury 

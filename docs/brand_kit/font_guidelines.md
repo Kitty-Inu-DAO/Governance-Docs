@@ -1,10 +1,11 @@
 ---
-id: brand-font-guidelines
+id: font_guidelines
 title: Font Guidelines
 tags:
   - branding
   - styling
   - font
+  - brand-kit
 ---
 
 # Font Guidelines
