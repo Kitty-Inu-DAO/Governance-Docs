@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'Get started',
-                to: '/introduction-kitty-inu',
+                to: 'introduction/introduction_kitty_inu',
               },
             ],
           },
