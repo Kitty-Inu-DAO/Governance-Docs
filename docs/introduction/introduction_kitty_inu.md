@@ -1,6 +1,9 @@
 ---
-id: 'introduction-kitty-inu'
+id: 'introduction_kitty_inu'
 title: 'Kitty Inu Overview'
+tags:
+  - kitty-inu
+  - introduction
 ---
 
 # Kitty Inu Overview

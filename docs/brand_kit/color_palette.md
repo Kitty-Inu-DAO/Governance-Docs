@@ -1,10 +1,11 @@
 ---
-id: brand-color-palette
+id: color_palette
 title: Color Palette
 tags:
   - branding
   - styling
   - colors
+  - brand-kit
 ---
 
 # Color Palette

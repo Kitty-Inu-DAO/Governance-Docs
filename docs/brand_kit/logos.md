@@ -1,10 +1,11 @@
 ---
-id: brand-logos
+id: logos
 title: Logos
 tags:
   - branding
   - styling
   - logos
+  - brand-kit
 ---
 
 # Logos

@@ -1,9 +1,9 @@
 ---
-id: doc-why-dao
+id: why_decentralization
 title: Why a DAO?
 tags:
-  - bylaws
-  - governance
+  - decentralization
+  - introduction
 ---
 
 
