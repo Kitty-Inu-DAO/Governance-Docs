@@ -1,9 +1,9 @@
 ---
-id: governance_token
-title: Kitty ERC20 Contract
+id: contract_addresses
+title: Contract Addresses
 tags:
-  - contract
-  - token
+  - addresses
+  - erc20
   - architecture
 ---
 
