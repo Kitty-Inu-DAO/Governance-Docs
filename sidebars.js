@@ -93,8 +93,19 @@ module.exports = {
       collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'how_tos/contribute_to_documentation',
+          type: 'category',
+          label: "Contributing",
+          collapsed: false,
+          items: [
+            {
+              type: 'doc',
+              id: 'how_tos/contribute_to_documentation',
+            },
+            {
+              type: 'doc',
+              id: 'how_tos/contribute_to_development',
+            }
+          ],
         },
         {
           type: 'doc',

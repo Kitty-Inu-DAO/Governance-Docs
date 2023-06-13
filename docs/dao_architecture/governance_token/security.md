@@ -2,9 +2,29 @@
 
 ----------------------------------------------------------------------------
 
-The Kitty Inu token contract is built with industry-standard security practices and rigorous checks. It has inherited secure smart contract standards like `ERC20`, `ERC20Burnable`, `ERC20Snapshot`, `Ownable`, `Pausable`, and `ERC20Permit` from the OpenZeppelin library.
+## The ERC20 Token
 
-However, while the contract is secure, the overall security also depends on the practices followed by the end users. Here are some tips to ensure that your Kitty Inu tokens remain secure:
+### Industry Standard
+
+The Kitty Inu token contract is built with industry-standard security practices and rigorous checks. It has inherited secure smart contract standards like `ERC20`, `ERC20Burnable`, `ERC20Snapshot`, `Ownable`, `Pausable`, and `ERC20Permit` from the OpenZeppelin library. These standards are widely recognized in the blockchain industry for their robust security assurances, having been extensively audited and proven in countless projects over the years.
+
+### Decentralized Ownership
+
+The `Kitty Inu` contract is [owned by the DAO multisig](https://etherscan.io/tx/0xb3bd8cd54f02f2927009e163bdaee496249ee61ecf8e9602a23ccce62f7a188f), specifically a 3-of-5 multisig wallet. This means that for any major operation to be approved, at least three of the five signers must agree and provide their digital signatures.
+
+:::info
+You can view the DAO multisig wallet on the [SAFE (formerly GNOSIS) application](https://app.safe.global/home?safe=eth:0xAe822e37f4Bb4cFA2DbA93cA079Bdf135E5c8b37)
+:::
+
+The keys to this multisig wallet are held by the elected committee members of the Kitty Inu DAO, selected through a democratic process as stipulated in the DAO's bylaws. This method ensures that no single entity has absolute control over the contract. It decentralizes authority, reinforces security, and upholds the democratic principles at the core of blockchain technology.
+
+In terms of contract functions that require `onlyOwner` permissions, they can only be executed subject to a vote by the $kitty token holders. This ensures that every significant action undertaken has the backing of the community, reinforcing the principles of transparency, inclusivity, and decentralized decision-making.
+
+The fusion of industry-standard security practices and decentralized ownership makes the Kitty Inu token contract robust, secure, and transparent. It underpins trust and safety in the Kitty Inu ecosystem, reflecting our commitment to community governance and secure, decentralized operations.
+
+## Best Practices
+
+While the contract is secure, the overall security also depends on the practices followed by the end users. Here are some tips to ensure that your Kitty Inu tokens remain secure:
 
 1. **Private Key Management**: Never disclose your private key to anyone. If someone has your private key, they can transfer your tokens without your permission. It's a good practice to use a hardware wallet or a secure wallet software that encrypts your private key.
 

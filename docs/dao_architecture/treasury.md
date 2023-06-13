@@ -25,7 +25,7 @@ Version: 1.0
 
 - **Address**: [0xAe822e37f4Bb4cFA2DbA93cA079Bdf135E5c8b37](https://etherscan.io/address/0xae822e37f4bb4cfa2dba93ca079bdf135e5c8b37)
 
-- **Provider**: [SAFE (formerly GNOSIS)](https://safe.global)
+- **Provider**: [SAFE (formerly GNOSIS)](https://app.safe.global/home?safe=eth:0xAe822e37f4Bb4cFA2DbA93cA079Bdf135E5c8b37)
 
 - **Signers**: 3/5
 

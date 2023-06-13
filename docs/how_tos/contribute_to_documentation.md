@@ -1,6 +1,6 @@
 ---
 id: contribute_to_documentation
-title: Contributing to Documentation
+title: Documentation
 tags:
   - contributing
   - documentation
@@ -8,7 +8,12 @@ tags:
 ---
 
 
-# How To: Contribute to DAO Documentation
+# Contributing to DAO Documentation
+---------------------------------------------------------------------------
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![IPFS](https://camo.githubusercontent.com/7c4b40ea2a014f254ff9ce7347f32ba3493f7b9bf35a4655e0b22a9662bcb152/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4950465326636f6c6f723d323232323232266c6f676f3d49504653266c6f676f436f6c6f723d363543324342266c6162656c3d)
+![ENS](https://img.shields.io/badge/ENS-20232A?style=for-the-badge&logo=ethereum&logoColor=61DAFB)
 
 This section is designed to guide you through the process of contributing to our repository. We believe in the power of collective intelligence and the spirit of collaboration that forms the core ethos of our decentralized organization. Whether you're a developer, content creator, or a passionate Kitty Inu enthusiast, your contributions play a vital role in shaping the future of our platform.
 
