@@ -67,6 +67,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'kitty-inu-dao.eth.limo/',
+            label: 'Main Website',
+            position: 'right',
+          },
         ],
       },
       footer: {
