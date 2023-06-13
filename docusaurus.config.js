@@ -68,7 +68,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'kitty-inu-dao.eth.limo/',
+            href: 'https://kitty-inu-dao.eth.limo/',
             label: 'Main Website',
             position: 'right',
           },
