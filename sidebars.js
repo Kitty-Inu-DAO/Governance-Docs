@@ -39,8 +39,47 @@ module.exports = {
           id: 'dao_architecture/treasury',
         },
         {
-          type: 'doc',
-          id: 'dao_architecture/governance_token',
+          type: 'category',
+          label: 'Kitty Inu ERC20',
+          collapsed: false,
+          items: [
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/overview',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/contract_addresses',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/api_reference',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/installation_and_setup',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/usage_instructions',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/security',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/integration_guides',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/faq',
+            },
+            {
+              type: 'doc',
+              id: 'dao_architecture/governance_token/glossary',
+            }
+          ],
         },
         {
           type: 'doc',
@@ -54,8 +93,19 @@ module.exports = {
       collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'how_tos/contribute_to_documentation',
+          type: 'category',
+          label: "Contributing",
+          collapsed: false,
+          items: [
+            {
+              type: 'doc',
+              id: 'how_tos/contribute_to_documentation',
+            },
+            {
+              type: 'doc',
+              id: 'how_tos/contribute_to_development',
+            }
+          ],
         },
         {
           type: 'doc',
